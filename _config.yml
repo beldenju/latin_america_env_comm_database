@@ -46,7 +46,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQOm0CuGrPHsvEyso3
 organization-name: "Knight Center for Environmental Journalism, Michigan State University"
 organization-link: https://knightcenter.jrn.msu.edu/
 organization-logo-banner: latin_america_env_comm_database/assets/knight_center_logo_transparent.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-logo-nav: latin_america_env_comm_database/assets/knight_center_logo_transparent.png
 
 ##########
 # ROBOTS EXCLUDE
