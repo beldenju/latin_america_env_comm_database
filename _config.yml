@@ -45,8 +45,8 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQOm0CuGrPHsvEyso3
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 organization-name: "Knight Center for Environmental Journalism, Michigan State University"
 organization-link: https://knightcenter.jrn.msu.edu/
-organization-logo-banner: latin_america_env_comm_database/assets/knight_center_logo_transparent.png
-organization-logo-nav: latin_america_env_comm_database/assets/knight_center_logo_transparent.png
+organization-logo-banner: https://username.github.io/latin_america_env_comm_database/assets/knight_center_logo_transparent.png
+organization-logo-nav: https://username.github.io/latin_america_env_comm_database/assets/knight_center_logo_transparent.png
 
 ##########
 # ROBOTS EXCLUDE
