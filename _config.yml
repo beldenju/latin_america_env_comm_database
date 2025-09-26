@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Environmental Discourses in Latin America
+title: Latin American Environmental Communication Scholarship Database
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Knight Center for Environmental Journalism, Michigan State University
+tagline: Michigan State University
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "This database contains publications in Portuguese, Spanish, and English on environmental communication in Latin America. It is currently in the testing phase, so we appreciate your patience."
@@ -43,7 +43,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQOm0CuGrPHsvEyso3
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-organization-name: "Knight Center for Environmental Journalism, Michigan State University"
+organization-name: "Knight Center for Environmental Journalism"
 organization-link: https://knightcenter.jrn.msu.edu/
 organization-logo-banner: https://username.github.io/latin_america_env_comm_database/assets/knight_center_logo_transparent.png
 organization-logo-nav: https://username.github.io/latin_america_env_comm_database/assets/knight_center_logo_transparent.png
