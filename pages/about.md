@@ -12,16 +12,13 @@ credits: true
 
 ## About the project
 
-"Environmental Discourses in Latin America" ​​is a project created to highlight research produced in and about the region, with a focus on environmental communication. It also seeks to foster dialogue and collaboration between researchers from the Global South and the Global North.
+This database highlights environmental communication research produced in and about Latin America. It also seeks to foster dialogue and collaboration between researchers from the Global South and the Global North.
 
-This initiative, led by Dr. Bruno Takahashi of Michigan State University, stems from the recognition that Latin American scholars contribute essential perspectives to the study of environmental communication and from the need to overcome the barriers that perpetuate forms of bibliometric coloniality.
+Led by Dr. Bruno Takahashi of Michigan State University, this initiative stems from the recognition that Latin American scholars contribute essential perspectives to the study of environmental communication and from the need to overcome the barriers that perpetuate forms of bibliometric coloniality.
 
 {% include feature/button.html text="About Dr. Bruno Takahashi" link="https://www.drbrunotakahashi.com/" color="success" %}
 
 
 
-
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
 
