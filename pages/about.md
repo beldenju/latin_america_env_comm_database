@@ -16,6 +16,22 @@ This database highlights environmental communication research produced in and ab
 
 Led by Dr. Bruno Takahashi of Michigan State University, this initiative stems from the recognition that Latin American scholars contribute essential perspectives to the study of environmental communication and from the need to overcome the barriers that perpetuate forms of bibliometric coloniality.
 
+# Project Team:
+
+Bruno Takahashi, Ph.D.
+btakahashi@msu.edu
+
+Graduate students:
+Iasmim Amiden dos Santos - amiden@msu.edu
+Julia Belden - beldenju@msu.edu
+Anna Barnes
+Shealyn Paulis
+Caroline Geer
+
+Additional support:
+Jonathan Barber, MSU data librarian
+
+
 {% include feature/button.html text="About Dr. Bruno Takahashi" link="https://www.drbrunotakahashi.com/" color="success" %}
 
 
