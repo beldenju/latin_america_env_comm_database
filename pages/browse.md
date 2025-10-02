@@ -7,3 +7,5 @@ permalink: /browse.html
 ---
 
 ## Browse Items
+
+Search by keyword, author, and more. 
