@@ -28,6 +28,7 @@ tagline: Michigan State University
 description: "This database contains publications in Portuguese, Spanish, and English on environmental communication in Latin America. It is currently in the testing phase, so we appreciate your patience."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: beldenju
+lang: en
 
 ##########
 # COLLECTION SETTINGS
