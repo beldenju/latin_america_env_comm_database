@@ -8,7 +8,6 @@ permalink: /locations.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Browse Author Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Who's writing about Latin American environmental communication? Select a location below to generate a list of works produced within that country. Word size is determined by frequency and all words link to a corresponding collection search.
